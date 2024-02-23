@@ -1,0 +1,9 @@
+{
+    "inputEmailField":"#username",
+   
+   
+    "btnLoginGoogle": "#google-auth-button",
+    
+   
+    "linkCreateAccount": "#signup"
+}
